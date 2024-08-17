@@ -3,7 +3,7 @@
 import java.util.Scanner;//attaching Scanner class
 public class  ATM
 {
-  public static void main()
+  public static void main(String arg[])
  {  
     Scanner x = new Scanner(System.in);//connecting KB
      int n;

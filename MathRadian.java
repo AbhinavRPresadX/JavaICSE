@@ -1,7 +1,7 @@
 //import java.lang.Math;
 public class MathRadian
 {
-    public static void main()
+    public static void main(String arg[])
     {
         double r, rf, d, df; 
         d=60;

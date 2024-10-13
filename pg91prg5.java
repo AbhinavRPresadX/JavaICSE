@@ -14,7 +14,7 @@ public class prg5
             System.out.println("Enter the Second Number.)");
             sn=sc.nextDouble();
             System.out.println("Enter the desired operator +, -, *, /, %");
-            opr=sc.nextLine().charAt(0);
+            opr=sc.next().charAt(0);
             if(opr == '+')
             {
                 res = fn + sn;
